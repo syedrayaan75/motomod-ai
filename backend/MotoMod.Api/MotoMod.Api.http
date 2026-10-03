@@ -1,0 +1,6 @@
+@MotoMod.Api_HostAddress = http://localhost:5072
+
+GET {{MotoMod.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

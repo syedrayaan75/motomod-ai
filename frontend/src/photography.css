@@ -1,0 +1,35 @@
+/* Distinct real motorcycle photography for MotoMod's catalogue views. */
+.garage-live-hero{min-height:420px;background:linear-gradient(90deg,#070909e8 0%,#070909bc 47%,#07090916 78%),#111514;background-size: cover; background-position: center 50%; border-color:#37443c}
+.garage-live-hero > div {padding:62px 54px;max-width:560px}
+.garage-live-hero h2{font-size:48px;line-height:1;letter-spacing:-2px}
+.garage-live-hero > div > p:not(.eyebrow){font-size:14px;line-height:1.6;max-width:350px}
+.bike-art{display:none}
+.hero-stats{padding:12px 0;border-block:1px solid #3d4942;gap:25px}
+.model-art{height:214px;color:transparent!important;background-size:cover!important;background-position:center!important;filter:none!important}
+.model-art span{color:#f3f0e9!important;font-size:12px!important;background:#0b0d0db8;padding:5px;border-radius:3px}
+.bike-card{padding:8px;overflow:hidden;background:#111514}
+.bike-card .eyebrow,.bike-card h2,.bike-card .spec-line,.bike-card .outline{margin-inline:7px}
+.bike-card .eyebrow{margin-top:13px}
+.bike-card h2{font-size:18px}
+.bike-card .outline{width:calc(100% - 14px);margin-bottom:7px}
+.part-image{height:175px;color:transparent!important;background-size:cover!important;background-position: center; filter:none!important}
+.part-image small{color:#f3f0e9!important;background:#0b0d0dc7;padding:4px 6px;border-radius:3px}
+.part-card{padding:8px;background:#111514}
+.part-card>p,.part-card h3,.part-card .impact,.part-card footer{margin-inline:6px}
+.part-card>p{margin-top:12px}
+.part-card footer{margin-bottom:6px}
+.workshop{min-height:540px}
+.hologram{background:linear-gradient(90deg,#07100a99,#07100a35),url('https://i.imgur.com/tL4h21x.jpeg') center/cover}
+.holo-bike{display:none}
+.hologram:before,.hologram:after{border-color:rgba(239,173,70,.25)}
+.hologram p{background:#07100abf;padding:7px 10px;border-radius:3px}
+.feed-art{height:270px;background:linear-gradient(180deg,transparent,#0b0d0dc8),url('https://i.imgur.com/sI3dK0g.jpeg') center/cover!important;color:transparent!important;filter:none!important}
+.mini-bike{font-size:0!important;background-size: cover !important; background-position: center !important;}
+.network-hero{min-height:270px;background:linear-gradient(90deg,#0b0d0df2 0%,#0b0d0d83 50%,#0b0d0d1c),url('https://i.imgur.com/sI3dK0g.jpeg') center/cover}
+.network-hero h2{font-size:38px;max-width:480px}
+.shop-card{background:linear-gradient(180deg,#131716eb,#0d1010f5),url('https://i.imgur.com/sI3dK0g.jpeg') center/cover}
+.syndicate .podium{background:linear-gradient(145deg,#151815f2,#1d1713dd),url('https://i.imgur.com/tL4h21x.jpeg') center/cover}
+.selected-card{border-color:#efad46;box-shadow:0 0 0 1px #efad46,0 15px 35px #0008}
+.fitment{background:#152016e8;border-color:#668f43}
+.sidebar{background:#0d1010}
+@media(max-width:650px){.garage-live-hero{min-height:380px}.garage-live-hero > div{padding:42px 25px}.garage-live-hero h2{font-size:37px}.model-art{height:190px}.network-hero{padding:25px}.network-hero h2{font-size:30px}}

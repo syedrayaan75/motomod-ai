@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono&family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap');
+@import './auth.css';
+@import './photography.css';
+@import './modern.css';
+@import './product-map.css';
+@import './garage-live.css';
+*{box-sizing:border-box} body{margin:0;background:#0b0d0d;color:#f3f0e9;font-family:Manrope,Arial,sans-serif} button,input,textarea{font:inherit} button{cursor:pointer} #root{min-height:100vh}
